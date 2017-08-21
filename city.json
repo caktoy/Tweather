@@ -1,0 +1,122 @@
+[
+    {
+        "key": 0,
+        "name": "Surabaya",
+        "province": "Jawa Timur",
+        "country": "ID",
+        "coord": {
+            "lon": 112.649047,
+            "lat": -7.2742121
+        }
+    },
+    {
+        "key": 1,
+        "name": "Sidoarjo",
+        "province": "Jawa Timur",
+        "country": "ID",
+        "coord": {
+            "lon": 12.00,
+            "lat": -7.00
+        }
+    },
+    {
+        "key": 2,
+        "name": "Gresik",
+        "province": "Jawa Timur",
+        "country": "ID",
+        "coord": {
+            "lon": 12.00,
+            "lat": -7.00
+        }
+    },
+    {
+        "key": 3,
+        "name": "Pasuruan",
+        "province": "Jawa Timur",
+        "country": "ID",
+        "coord": {
+            "lon": 12.00,
+            "lat": -7.00
+        }
+    },
+    {
+        "key": 4,
+        "name": "Lamongan",
+        "province": "Jawa Timur",
+        "country": "ID",
+        "coord": {
+            "lon": 12.00,
+            "lat": -7.00
+        }
+    },
+    {
+        "key": 5,
+        "name": "Malang",
+        "province": "Jawa Timur",
+        "country": "ID",
+        "coord": {
+            "lon": 12.00,
+            "lat": -7.00
+        }
+    },
+    {
+        "key": 6,
+        "name": "Mojokerto",
+        "province": "Jawa Timur",
+        "country": "ID",
+        "coord": {
+            "lon": 12.00,
+            "lat": -7.00
+        }
+    },
+    {
+        "key": 7,
+        "name": "Jombang",
+        "province": "Jawa Timur",
+        "country": "ID",
+        "coord": {
+            "lon": 12.00,
+            "lat": -7.00
+        }
+    },
+    {
+        "key": 8,
+        "name": "Kediri",
+        "province": "Jawa Timur",
+        "country": "ID",
+        "coord": {
+            "lon": 12.00,
+            "lat": -7.00
+        }
+    },
+    {
+        "key": 9,
+        "name": "Probolinggo",
+        "province": "Jawa Timur",
+        "country": "ID",
+        "coord": {
+            "lon": 12.00,
+            "lat": -7.00
+        }
+    },
+    {
+        "key": 10,
+        "name": "Lumajang",
+        "province": "Jawa Timur",
+        "country": "ID",
+        "coord": {
+            "lon": 12.00,
+            "lat": -7.00
+        }
+    },
+    {
+        "key": 11,
+        "name": "Banyuwangi",
+        "province": "Jawa Timur",
+        "country": "ID",
+        "coord": {
+            "lon": 12.00,
+            "lat": -7.00
+        }
+    },
+]
